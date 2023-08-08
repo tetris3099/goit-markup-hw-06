@@ -514,6 +514,7 @@ address {
 .basement .conteiner {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
 }
 
 .theme {
