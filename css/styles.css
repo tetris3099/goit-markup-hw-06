@@ -876,7 +876,6 @@ address {
   opacity: 0;
 }
 
-.checkbox_form:hover + .box_icon .icon_form_checkbox,
 .checkbox_form:focus + .box_icon .icon_form_checkbox {
   color: #188CE8;
 }
